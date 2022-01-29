@@ -1,0 +1,21 @@
+body {
+    background-color: #323330;
+}
+
+.bg-js {
+    background-color: #f0db4f;
+}
+
+.logo {
+    width: 3em;
+    height: auto;
+}
+
+.text-color-js {
+    color: #323330 !important;
+    font-weight: bold;
+}
+
+.text-color-js strong {
+    color: #232422;
+}

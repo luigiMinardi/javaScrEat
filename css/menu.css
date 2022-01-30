@@ -1,3 +1,10 @@
 .dark-green {
     color: var(--dark-green);
 }
+
+.carousel-margin {
+    margin-top: 5em;
+
+    display: flex;
+    justify-content: center;
+}

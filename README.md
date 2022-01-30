@@ -1,10 +1,6 @@
 # To Do
 
-### Home
-- [] add 3 images at the p's side
-
 ### Menu
-- [] solve menu margin top carousel
 - [] change background-color of the cards
 - [] add +6 cards
 - [] add cart modal
@@ -19,9 +15,12 @@
 
 # Done
 
+- [x] solve menu margin top carousel
+- [x] add 3 images at the p's side
+
 - [x] Good Design
 - [x] bootstrap without bugs
-- [x] Variedad de componentes (bootstrap)
+- [x] components variety (bootstrap)
 - [x] 3 pages (home[x], menu[x], contact us[x])
 - [x] reuse the code
 - [x] all responsive

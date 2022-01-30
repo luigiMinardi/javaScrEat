@@ -17,10 +17,6 @@ body {
     background-color: var(--js-black);
 }
 
-p {
-    color: var(--js-yellow);
-}
-
 /* Navbar */
 .bg-js {
     background-color: var(--js-yellow);
@@ -47,5 +43,11 @@ footer a {
 }
 
 footer a:hover {
+    color: var(--red);
+}
+
+/* Text Colors */
+
+.red {
     color: var(--red);
 }

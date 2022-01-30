@@ -1,7 +1,6 @@
 # To Do
 
-- [] 10 "large" commits at MINIMUM
-- [] 3 pages (home, menu, contact us)
+- [] 3 pages (home[x], menu, contact us)
 - [] Good Design
 - [] all responsive
 - [] Variedad de componentes (bootstrap)
@@ -12,8 +11,14 @@
 - [] css, js, assets well done and well imported
 
 # Done
+
 - [x] identation
+- [x] 10 "large" commits at MINIMUM
 
 # Image Sources
 
 <a href="https://www.freepik.com/vectors/food">Food vector created by pch.vector - www.freepik.com</a>
+
+Also thanks to Pixabay users for providing free photos for the design community without needing attribution.
+
+The deconstructed burguer I picked 

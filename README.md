@@ -1,37 +1,47 @@
-# To Do
 
-### Menu
-- [] change background-color of the cards
+# 💻 The js Restaurant!
+
+<div align="center">
+    <a href="https://github.com/luigiMinardi/javaScrEat/blob/main/LICENSE">
+        <img alt="GitHub license" src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
+    </a>
+    <img alt="Bootstrap Version" src="https://img.shields.io/badge/Bootstrap 5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img alt="HTML Version" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS Version" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+Are you tired of being spammed by javascript errors? Why don't you try to eat them all? **Yes, I mean that.**
+
+In this project I used bootstrap, html and css to do a restaurant based on javaScript. **The JavaScrEat!**
+
+Click [here](https://luigiminardi.github.io/javaScrEat/) or in the image below to go to the website.
+
+[![javaScrEat home](img/javaScrEat.png)](https://luigiminardi.github.io/javaScrEat/)
+
+## ✨ Features
+
+If you hover your mouse in the "Another js framework" it will change from the framework joke to "restaurant" while you're hovering.
+
+The warning at the bottom smothly go to the begining of the page.
+
+Everything is responsive and made mobile-first.
+
+# 🏗 Improvements To Do Later
+
+## Menu
+- [] change background-color of the cards (to the same as dracula)
+- [] add cart button
 - [] add cart modal
 - [] add cart function
 
-### Contact Us
+## Contact Us
+- [] send load gif after button clicked
 
-- [] send load gif
-
-### All
-- [] pulse animation on Warning
+## All
+- [] pulse css animation on Warning
 - [] navbar logo css animation (or hover)
 
-# Done
-
-- [x] add +6 cards
-- [x] solve menu margin top carousel
-- [x] add 3 images at the p's side
-
-- [x] Good Design
-- [x] bootstrap without bugs
-- [x] components variety (bootstrap)
-- [x] 3 pages (home[x], menu[x], contact us[x])
-- [x] reuse the code
-- [x] all responsive
-- [x] comments in the code
-- [x] identation
-- [x] css, js, assets well done and well imported
-- [x] 10 "large" commits at MINIMUM
-- [x] pseudoclasses and pseudoelements
-
-# Image Sources
+# 🖼 Image Sources
 
 <a href="https://www.freepik.com/vectors/food">Food vector created by pch.vector - www.freepik.com</a>
 

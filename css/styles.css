@@ -38,6 +38,35 @@ body {
     color: var(--js-bold-black);
 }
 
+/* h1 */
+.my-h1 {
+    margin-top: 1em;
+
+    color: var(--green);
+    font-weight: bold;
+}
+
+.my-h1 strong {
+    text-shadow: 0 0 .1em var(--js-yellow);
+}
+
+/* content-changer */
+.content-changer:hover span {
+    display: none;
+}
+
+.content-changer:hover::before {
+    content: " restaurant";    
+}
+
+/* My container */
+.my-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 /* Footer */
 footer a {
     font-weight: bold;
@@ -60,4 +89,20 @@ footer a:hover {
 
 .blue {
     color: var(--blue);
+}
+
+.pink {
+    color: var(--pink);
+}
+
+.white {
+    color: white;
+}
+
+.purple {
+    color: var(--purple);
+}
+
+.yellow {
+    color: var(--yellow);
 }

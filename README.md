@@ -6,7 +6,6 @@
 - [] Variedad de componentes (bootstrap)
 - [] comments in the code
 - [] reuse the code
-- [] pseudoclasses and pseudoelements
 - [] bootstrap without bugs
 - [] css, js, assets well done and well imported
 
@@ -14,6 +13,7 @@
 
 - [x] identation
 - [x] 10 "large" commits at MINIMUM
+- [x] pseudoclasses and pseudoelements
 
 # Image Sources
 

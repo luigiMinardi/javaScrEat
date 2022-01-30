@@ -6,50 +6,12 @@ p {
     color: var(--js-yellow);
 }
 
-/* Title */
-#title {
-    margin-top: 1em;
+/* padding console-log */
 
-    color: var(--green);
-    font-weight: bold;
-}
-
-#title strong {
-    text-shadow: 0 0 .1em var(--js-yellow);
-}
-
-h1#title + p {
+.console-log {
     padding-left: 4em;
 }
 
-.my-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.framework:hover span {
-    display: none;
-}
-
-.framework:hover::before {
-    content: " restaurant";    
-}
-
-/* Text Colors */
-.pink {
-    color: var(--pink);
-}
-
-.white {
-    color: white;
-}
-
-.purple {
-    color: var(--purple);
-}
-
-.yellow {
-    color: var(--yellow);
+.size {
+    width: 25em;
 }

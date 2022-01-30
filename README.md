@@ -1,16 +1,5 @@
 # To Do
 
-- [] 3 pages (home[x], menu, contact us)
-- [] Good Design
-- [] all responsive
-- [] Variedad de componentes (bootstrap)
-- [] comments in the code
-- [] reuse the code
-- [] bootstrap without bugs
-- [] css, js, assets well done and well imported
-
-## Mine
-
 ### Home
 - [] add 3 images at the p's side
 
@@ -30,7 +19,15 @@
 
 # Done
 
+- [x] Good Design
+- [x] bootstrap without bugs
+- [x] Variedad de componentes (bootstrap)
+- [x] 3 pages (home[x], menu[x], contact us[x])
+- [x] reuse the code
+- [x] all responsive
+- [x] comments in the code
 - [x] identation
+- [x] css, js, assets well done and well imported
 - [x] 10 "large" commits at MINIMUM
 - [x] pseudoclasses and pseudoelements
 
@@ -38,6 +35,8 @@
 
 <a href="https://www.freepik.com/vectors/food">Food vector created by pch.vector - www.freepik.com</a>
 
-Also thanks to Pixabay users for providing free photos for the design community without needing attribution.
+The 3 vectorial images of "Foo, Bar, Baz" at the Home are from [ITG](https://app.itg.digital).
 
-The deconstructed burguer I picked 
+Also thanks to [Pixabay](https://pixabay.com/) users for providing free photos for the design community without needing attribution. The [double burguer](https://pixabay.com/photos/hamburguer-burguer-fries-5829560/) and [vegetarian one](https://pixabay.com/photos/asparagus-burger-vegetarian-2258013/) are from there.
+
+The deconstructed burguer I picked from [pinterest](https://br.pinterest.com/pin/730849845752662354/).

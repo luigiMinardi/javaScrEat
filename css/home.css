@@ -50,10 +50,6 @@ h1#title + p {
     color: var(--purple);
 }
 
-.green {
-    color: var(--green);
-}
-
 .yellow {
     color: var(--yellow);
 }

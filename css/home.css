@@ -3,18 +3,18 @@ h1, p {
 }
 
 /* Title */
-.title {
+#title {
     margin-top: 1em;
 
-    color: #50fa7b !important;
+    color: var(--green);
     font-weight: bold;
 }
 
-.title strong {
-    text-shadow: 0 0 .1em #f0db4f;
+#title strong {
+    text-shadow: 0 0 .1em var(--js-yellow);
 }
 
-h1.title + p {
+h1#title + p {
     padding-left: 4em;
 }
 
@@ -30,12 +30,12 @@ h1.title + p {
 }
 
 .framework:hover::before {
-    content: "restaurant";    
+    content: " restaurant";    
 }
 
 /* Text Colors */
 .pink {
-    color: #ff79c6;
+    color: var(--pink);
 }
 
 .white {
@@ -43,13 +43,17 @@ h1.title + p {
 }
 
 .purple {
-    color: #bd93f9;
+    color: var(--purple);
 }
 
 .green {
-    color: #50fa7b;
+    color: var(--green);
 }
 
 .yellow {
-    color: #f1fa8c;
+    color: var(--yellow);
+}
+
+.red {
+    color: var(--red);
 }

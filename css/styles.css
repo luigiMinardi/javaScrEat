@@ -1,10 +1,29 @@
+:root {
+    --red: #ff5555;
+    --green: #50fa7b;
+    --yellow: #f1fa8c;
+    --purple: #bd93f9;
+    --pink: #ff79c6;
+    --js-yellow: #f0db4f;
+    --js-black: #323330;
+    --js-bold-black: #232422;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 body {
-    background-color: #323330;
+    background-color: var(--js-black);
+}
+
+p {
+    color: var(--js-yellow);
 }
 
 /* Navbar */
 .bg-js {
-    background-color: #f0db4f;
+    background-color: var(--js-yellow);
 }
 
 .logo {
@@ -12,15 +31,21 @@ body {
     height: auto;
 }
 
-.text-color-js {
-    color: #323330 !important;
+#restaurant-name {
+    color: var(--js-black);
     font-weight: bold;
 }
 
-.text-color-js strong {
-    color: #232422;
+#restaurant-name strong {
+    color: var(--js-bold-black);
 }
 
-p {
-    color: #f0db4f;
+/* Footer */
+footer a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: var(--red);
 }

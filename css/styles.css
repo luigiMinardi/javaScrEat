@@ -4,6 +4,7 @@
     --yellow: #f1fa8c;
     --purple: #bd93f9;
     --pink: #ff79c6;
+    --blue: #8be9fd;
     --js-yellow: #f0db4f;
     --js-black: #323330;
     --js-bold-black: #232422;
@@ -50,4 +51,12 @@ footer a:hover {
 
 .red {
     color: var(--red);
+}
+
+.green {
+    color: var(--green);
+}
+
+.blue {
+    color: var(--blue);
 }

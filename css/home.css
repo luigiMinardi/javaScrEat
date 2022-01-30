@@ -2,6 +2,10 @@ h1, p {
     margin: 0 1em 0 1em;
 }
 
+p {
+    color: var(--js-yellow);
+}
+
 /* Title */
 #title {
     margin-top: 1em;
@@ -52,8 +56,4 @@ h1#title + p {
 
 .yellow {
     color: var(--yellow);
-}
-
-.red {
-    color: var(--red);
 }
